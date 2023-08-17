@@ -1,7 +1,8 @@
 .link{
-    color: white
+    color: white;
+    text-decoration: none;
 }
 .link:hover {
     text-decoration: none;
-    color: pink;
+    color: "blue";
 }
